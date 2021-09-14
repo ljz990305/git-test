@@ -7,5 +7,7 @@ package com.atguigu.domain;
 public class User {
     public void sayHello(){
         System.out.println("asdad");
+        System.out.println(1);
+        System.out.println(2);
     }
 }
