@@ -14,5 +14,6 @@ public class User {
         System.out.println("pull test!");
         System.out.println("push test!");
         System.out.println("pull test2!");
+        System.out.println("push test2!");
     }
 }
